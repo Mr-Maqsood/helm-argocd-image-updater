@@ -1,0 +1,5 @@
+
+# Ignore binaries
+argocd*
+kubectl*
+helm*

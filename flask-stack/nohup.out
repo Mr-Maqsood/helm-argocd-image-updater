@@ -1,0 +1,33 @@
+error: unknown flag: --adress
+See 'kubectl port-forward --help' for usage.
+error: unknown flag: --adress
+See 'kubectl port-forward --help' for usage.
+error: unknown flag: --adress
+See 'kubectl port-forward --help' for usage.
+Forwarding from 0.0.0.0:8080 -> 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Handling connection for 8080
+Forwarding from 0.0.0.0:5000 -> 5000
