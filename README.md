@@ -1,0 +1,1 @@
+# helm-argocd-image-updater
