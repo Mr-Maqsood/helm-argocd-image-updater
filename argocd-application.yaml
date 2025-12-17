@@ -12,7 +12,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/Mr-Maqsood/flask-todo-app-helm.git
+    repoURL: https://github.com/Mr-Maqsood/helm-argocd-image-updater.git
     path: flask-stack
     targetRevision: main
     helm:
